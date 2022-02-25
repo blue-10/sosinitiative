@@ -8,5 +8,6 @@ Your software depends on OSS. Research hints that more that 70% of the code you 
 
 - fork this repo under your own organisation
 - complete the [commitment](commitment.md)
-- complete your [contributions](contributions.md) page 
+- complete your [contributions](contributions.md) page
+- complete your [contributing guidelines](contributing-guidelines.md) and get your team involved
 - share your intentions with the world
